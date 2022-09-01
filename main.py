@@ -1,7 +1,4 @@
 print('Hello world!')
 
-# added something in branch test_1
-
-# added something in branch test_1 again.
-
-
+# added something in master branch
+# this will cause a conflict
